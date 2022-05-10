@@ -1,2 +1,3 @@
 # chessGame
-A console chess game
+Console chess game using C#
+ 
